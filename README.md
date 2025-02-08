@@ -28,22 +28,47 @@ O projeto foi desenvolvido para aplicar técnicas de manipulação de dados, an�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-analise-dados.git
+   git clone https://github.com/mayaranm/An-lise_de_Dados_de_Pacientes_Oncol-gicos.git
 
 
 
 
-Instale as dependências:
 
-pip install pandas numpy matplotlib seaborn
+2. Instale as dependências
+Instale as bibliotecas necessárias utilizando o requirements.txt:
+
+bash
+Copiar
+Editar
+pip install -r requirements.txt
 
 
+3. Execute o Script
+Após instalar as dependências, você pode executar o script principal para realizar a análise:
 
-Execute o script:
+bash
+Copiar
+Editar
+python analise_oncologica.py
+Exemplos de Saída
+Aqui estão alguns exemplos de gráficos e resultados que o projeto gera:
 
-python analise_dados.py
 
+Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, criar uma nova branch, e enviar um pull request.
 
+Como Contribuir:
+Faça um fork deste repositório.
+Crie uma branch para a sua contribuição.
+Envie suas alterações e abra um pull request explicando as modificações.
+Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+
+Contato
+Se você tiver alguma dúvida ou sugestão, não hesite em me contatar:
+
+Email: mayaranascimentom@outlook.com
+LinkedIn: [mayaranm](https://www.linkedin.com/in/mayaranmartins/)
 
 
 Resultados Esperados:
