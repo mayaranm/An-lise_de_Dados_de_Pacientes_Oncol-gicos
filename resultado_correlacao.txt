@@ -1,0 +1,1 @@
+Correlação entre Idade e Sobrevivência: -0.8565343182560347
